@@ -5,13 +5,8 @@ This folder contains the 13 companion Jupyter notebooks for *The Computer Vision
 
 The Computer Vision Internship
 InternshipInABook™ · Book 3 of 9
----
-What Is This?
-You are Ngozi Eze-Okafor, junior CV engineer at MediVision AI, Lagos.
-Your manager, Dr. Kwame Asante, hands you five datasets across three clinical domains
-and twelve weeks to build models that could assist clinical decisions — and audit them
-rigorously enough that a hospital ethics board could approve them.
----
+
+
 The Twelve-Week Arc
 Week	Title	Domain	Key Skills
 0	Before You See	Setup	PyTorch, MONAI, DICOM loading
