@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="assets/github-banner.png" width="100%">
+<img src="assets/banner (2).png" width="100%">
 </p>
 
 # The Computer Vision Internship
