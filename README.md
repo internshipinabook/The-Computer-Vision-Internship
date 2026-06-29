@@ -1,3 +1,13 @@
+
+<p align="center">
+<img src="assets/github-banner.png" width="100%">
+</p>
+
+# The Computer Vision Internship
+
+Learn Computer Vision Like You're Working at a Real AI Company.
+
+
 # The Computer Vision Internship
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
