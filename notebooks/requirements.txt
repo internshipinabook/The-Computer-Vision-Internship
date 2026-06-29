@@ -1,0 +1,33 @@
+# The Computer Vision Internship — Book 3 of 9
+# InternshipInABook™ | internshipinabook.com
+# Python 3.10+
+
+# Core
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+tqdm>=4.66.0
+Pillow>=10.0.0
+scikit-learn>=1.4.0
+
+# CV stack
+torch>=2.2.0
+torchvision>=0.17.0
+timm>=0.9.0
+opencv-python>=4.9.0
+
+# Medical imaging
+monai>=1.3.0
+pydicom>=2.4.0
+torchstain>=1.3.0
+
+# XAI
+grad-cam>=1.5.0
+lime>=0.2.0
+shap>=0.45.0
+captum>=0.7.0
+
+# Deployment
+fastapi>=0.110.0
+uvicorn>=0.29.0
