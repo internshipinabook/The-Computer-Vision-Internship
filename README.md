@@ -98,3 +98,13 @@ Grad-CAM
 
 ## Repository Structure
 
+## 📚 Get the Complete Book
+
+📘 **The Computer Vision Internship**
+
+Available on Selar:
+https://selar.com/62xcr77v87
+
+⭐ If this repository helps you, please give it a star!
+
+🔗 Follow the **InternshipInABook™** series for more AI internship books and practical learning resources.
