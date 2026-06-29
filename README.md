@@ -23,8 +23,8 @@ InternshipInABook™ • Book 3
 
 by
 
-# Dr. Sakinat Folorunso,
-# Associate Professor of AI Systems
+## Dr. Sakinat Folorunso,
+## Associate Professor of AI Systems
 
 ---
 
