@@ -8,7 +8,17 @@
 Learn Computer Vision Like You're Working at a Real AI Company.
 
 
-# The Computer Vision Internship
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-2.7-red)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Book](https://img.shields.io/badge/InternshipInABook-Book%203-gold)
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red.svg)
